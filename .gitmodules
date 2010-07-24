@@ -1,0 +1,6 @@
+[submodule "django-subdomain"]
+	path = django-subdomain
+	url = git@github.com:becomingGuru/django-subdomain.git
+[submodule "django-subdomain-admin"]
+	path = django-subdomain-admin
+	url = git@github.com:becomingGuru/django-subdomain-admin.git
